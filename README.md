@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
