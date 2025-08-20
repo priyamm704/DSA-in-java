@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/priyamm704/DSA-in-java/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/priyamm704/DSA-in-java/tree/master/1603-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0908-middle-of-the-linked-list) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyamm704/DSA-in-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
