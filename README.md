@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyamm704/DSA-in-java/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/priyamm704/DSA-in-java/tree/master/0560-subarray-sum-equals-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/priyamm704/DSA-in-java/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/priyamm704/DSA-in-java/tree/master/1791-richest-customer-wealth) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/priyamm704/DSA-in-java/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/priyamm704/DSA-in-java/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/priyamm704/DSA-in-java/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
