@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/priyamm704/DSA-in-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
