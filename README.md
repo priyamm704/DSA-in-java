@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyamm704/DSA-in-java/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/priyamm704/DSA-in-java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/priyamm704/DSA-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0088-merge-sorted-array) |
@@ -87,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyamm704/DSA-in-java/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/priyamm704/DSA-in-java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
