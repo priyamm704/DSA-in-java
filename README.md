@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/priyamm704/DSA-in-java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/priyamm704/DSA-in-java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/priyamm704/DSA-in-java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/priyamm704/DSA-in-java/tree/master/0075-sort-colors) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/priyamm704/DSA-in-java/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/priyamm704/DSA-in-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/priyamm704/DSA-in-java/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
