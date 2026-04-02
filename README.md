@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/priyamm704/DSA-in-java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/priyamm704/DSA-in-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/priyamm704/DSA-in-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/priyamm704/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/priyamm704/DSA-in-java/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/priyamm704/DSA-in-java/tree/master/1791-richest-customer-wealth) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/priyamm704/DSA-in-java/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/priyamm704/DSA-in-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/priyamm704/DSA-in-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/priyamm704/DSA-in-java/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
