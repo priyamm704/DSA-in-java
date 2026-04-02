@@ -6,7 +6,7 @@ class Solution {
         while(low <= high){
             int mid = low + (high - low) / 2;
 
-            long totalHours = findTotalHours(piles, mid);
+            long totalHours = findTotalHours(piles, mid, h);
             if(totalHours <= h){
                 high = mid-1;
             }else{
@@ -16,11 +16,12 @@ class Solution {
         return low;
     }
 
-    public static long findTotalHours(int[] arr,int hour){
+    public static long findTotalHours(int[] arr,int hour,int h){
         long totalHours = 0;
 
         for(int i=0;i<arr.length;i++){
             totalHours += (arr[i] + hour - 1) / hour;
+            if(totalHours > h) return totalHours;
         }
         return totalHours;
     }
