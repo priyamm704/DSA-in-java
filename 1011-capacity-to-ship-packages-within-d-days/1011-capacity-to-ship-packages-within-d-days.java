@@ -10,7 +10,7 @@ class Solution {
         while(low <= high){
             int mid = low + (high-low) / 2;
 
-            int day = getDays(weights, mid, days);
+            int day = getDays(weights, mid);
             if(day <= days){
                 high = mid-1;
             }else{
@@ -20,14 +20,13 @@ class Solution {
         return low;
     }
 
-    public static int getDays(int[] weights,int mid,int days){
+    public static int getDays(int[] weights,int mid){
         int day = 1;
         int load = 0;
         for(int i=0;i<weights.length;i++){
             if(load + weights[i] > mid){
                 day++;
                 load = weights[i];
-                if(day > days) return day;
             }else{
                 load += weights[i];
             }
