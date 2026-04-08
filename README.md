@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyamm704/DSA-in-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1603-running-sum-of-1d-array](https://github.com/priyamm704/DSA-in-java/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/priyamm704/DSA-in-java/tree/master/1791-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/1901-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/priyamm704/DSA-in-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/priyamm704/DSA-in-java/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/priyamm704/DSA-in-java/tree/master/1791-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyamm704/DSA-in-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priyamm704/DSA-in-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyamm704/DSA-in-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
