@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/priyamm704/DSA-in-java/tree/master/0205-isomorphic-strings) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyamm704/DSA-in-java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/priyamm704/DSA-in-java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyamm704/DSA-in-java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/priyamm704/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyamm704/DSA-in-java/tree/master/0151-reverse-words-in-a-string) |
