@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyamm704/DSA-in-java/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyamm704/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/priyamm704/DSA-in-java/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyamm704/DSA-in-java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priyamm704/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/priyamm704/DSA-in-java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyamm704/DSA-in-java/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/priyamm704/DSA-in-java/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
