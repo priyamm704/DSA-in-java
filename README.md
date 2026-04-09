@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/priyamm704/DSA-in-java/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/priyamm704/DSA-in-java/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/priyamm704/DSA-in-java/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
