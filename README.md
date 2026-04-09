@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priyamm704/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
