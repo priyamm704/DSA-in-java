@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyamm704/DSA-in-java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/priyamm704/DSA-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/priyamm704/DSA-in-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyamm704/DSA-in-java/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/priyamm704/DSA-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
