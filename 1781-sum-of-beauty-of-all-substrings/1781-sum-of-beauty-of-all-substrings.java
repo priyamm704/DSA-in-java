@@ -3,10 +3,11 @@ class Solution {
         int sum = 0;
         for(int i = 0;i<s.length();i++){
             int[] freq = new int[26];
+            int max = 0;
             for(int j=i;j<s.length();j++){
-                freq[s.charAt(j) - 'a']++;
-
-                int max = 0;
+                int idx = s.charAt(j) - 'a';
+                freq[idx]++;
+                max = Math.max(max, freq[idx]);
                 int min = Integer.MAX_VALUE;
 
                 for(int f : freq){
