@@ -2,27 +2,22 @@ class Solution {
     public String longestPalindrome(String s) {
         if(s == null || s.length() < 1)return "";
         
-        int start = 0,end = 0;
+        String ans = "";
+        for(int i = 0;i<s.length();i++){
+            String s1 = expand(s, i, i);
+            String s2 = expand(s, i, i+1);
 
-        for(int i=0;i<s.length();i++){
-            int len1 = expand(s, i, i);
-            int len2 = expand(s, i, i+1);
-
-            int length = Math.max(len1, len2);
-
-            if(length > end - start){
-                start = i - (length-1) / 2;
-                end = i + length / 2;
-            }
+            if(s1.length() > ans.length())ans = s1;
+            if(s2.length() > ans.length())ans = s2;
         }
-        return s.substring(start, end+1);
+        return ans;
     }
 
-    public static int expand(String s,int left,int right){
+    public static String expand(String s,int left,int right){
         while(left >=0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             left--;
             right++;
         }
-        return right-left-1;
+        return s.substring(left+1, right);
     }
 }
