@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priyamm704/DSA-in-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyamm704/DSA-in-java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
