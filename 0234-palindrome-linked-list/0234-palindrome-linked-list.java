@@ -17,6 +17,9 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+        if(fast != null){
+            slow = slow.next;
+        }
         ListNode newHead = reverse(slow);
         ListNode first = head;
         ListNode second = newHead;
