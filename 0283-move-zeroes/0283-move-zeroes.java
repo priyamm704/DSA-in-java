@@ -1,15 +1,24 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        int insertPos = 0;
+    public void moveZeroes(int[] arr) {
+        //j will stay at zero and will will iterate
+        //i will find the non zero number
+        int j = -1;
 
-        for (int num : nums) {
-            if (num != 0) {
-                nums[insertPos++] = num;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i] == 0){
+                j = i;
+                break;
             }
         }
+        if(j==-1) return;
 
-        while (insertPos < nums.length) {
-            nums[insertPos++] = 0;
+        for(int i=j+1;i<arr.length;i++){
+            if(arr[i] != 0){
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                j++;
+            }
         }
     }
 }
