@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/priyamm704/DSA-in-java/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/priyamm704/DSA-in-java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyamm704/DSA-in-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/priyamm704/DSA-in-java/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/priyamm704/DSA-in-java/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
