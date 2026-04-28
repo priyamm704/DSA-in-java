@@ -1,8 +1,8 @@
 class Solution {
     public double myPow(double x, int n) {
         long exp = n;
-        boolean isNeg = exp<0;
-        if(isNeg){
+        if(exp < 0){
+            x = 1/x;
             exp = -exp;
         }
         double result = 1;
@@ -12,9 +12,6 @@ class Solution {
             }
             x *= x;
             exp >>= 1;
-        }
-        if(isNeg){
-            return 1/result;
         }
         return result;
     }
