@@ -5,20 +5,17 @@ class Solution {
         if(isNeg){
             exp = -exp;
         }
-        double result = helper(x,exp);
+        double result = 1;
+        while(exp > 0){
+            if((exp & 1) == 1){
+                result *= x;
+            }
+            x *= x;
+            exp >>= 1;
+        }
         if(isNeg){
             return 1/result;
         }
         return result;
-    }
-
-    public static double helper(double x,long exp){
-        if(exp == 0)return 1;
-        double half = helper(x, exp/2);
-        if(exp % 2 == 1){
-            return half*half*x;
-        }else{
-            return half*half;
-        }
     }
 }
