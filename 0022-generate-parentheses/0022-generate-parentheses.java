@@ -1,7 +1,7 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(2*n);
         helper(0,0,n,sb,res);
         return res;
     }
