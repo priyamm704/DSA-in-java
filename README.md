@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyamm704/DSA-in-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyamm704/DSA-in-java/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/priyamm704/DSA-in-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/priyamm704/DSA-in-java/tree/master/0051-n-queens) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priyamm704/DSA-in-java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamm704/DSA-in-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/priyamm704/DSA-in-java/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyamm704/DSA-in-java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyamm704/DSA-in-java/tree/master/0141-linked-list-cycle) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyamm704/DSA-in-java/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/priyamm704/DSA-in-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priyamm704/DSA-in-java/tree/master/0074-search-a-2d-matrix) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyamm704/DSA-in-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/priyamm704/DSA-in-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/priyamm704/DSA-in-java/tree/master/0051-n-queens) |
