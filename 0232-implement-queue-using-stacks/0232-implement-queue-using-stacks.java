@@ -1,10 +1,10 @@
 class MyQueue {
-    Stack<Integer> in;
-    Stack<Integer> out;
+    Deque<Integer> in;
+    Deque<Integer> out;
 
     public MyQueue() {
-        in = new Stack<>();
-        out = new Stack<>();
+        in = new ArrayDeque<>();
+        out = new ArrayDeque<>();
     }
     
     public void push(int x) {
