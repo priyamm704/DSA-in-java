@@ -7,9 +7,10 @@ class Solution {
             } else {
                 if(dq.isEmpty())return false;
 
-                if(c == ')' && dq.pop() != '(')return false;
-                if(c == '}' && dq.pop() != '{')return false;
-                if(c == ']' && dq.pop() != '[')return false;
+                char top = dq.pop();
+                if((c == ')' && top != '(') ||
+                  (c == '}' && top != '{') ||
+                  (c == ']' && top != '['))return false;
             }
         }
         return dq.isEmpty();
