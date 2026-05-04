@@ -1,13 +1,13 @@
 class MyStack {
     Queue<Integer> Q;
     public MyStack() {
-        Q = new LinkedList<>();
+        Q = new ArrayDeque<>();
     }
     
     public void push(int x) {
         int size = Q.size();
         Q.add(x);
-        
+
         for(int i=0;i<size;i++){
             Q.add(Q.poll());
         }
