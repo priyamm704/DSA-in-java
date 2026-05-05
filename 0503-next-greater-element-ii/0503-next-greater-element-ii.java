@@ -1,11 +1,12 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int[] ans = new int[nums.length];
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         int n = nums.length;
 
         for(int i=2*n-1;i >= 0;i--){
             int ind = i % n;
+            
             while(!st.isEmpty() && nums[ind] >= st.peek()){
                 st.pop();
             }
