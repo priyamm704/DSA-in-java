@@ -3,7 +3,7 @@ class Solution {
     public static int[] findNse(int[] arr){
         int n = arr.length;
         int[] nse = new int[n];
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
         for(int i = n - 1; i >= 0; i--){
             while(!st.isEmpty() && arr[st.peek()] >= arr[i]){
@@ -19,7 +19,7 @@ class Solution {
 
     public static int[] findPsee(int[] arr){
         int[] psee = new int[arr.length];
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
         for(int i = 0; i < arr.length; i++){
             while(!st.isEmpty() && arr[st.peek()] > arr[i]){
