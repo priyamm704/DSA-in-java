@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/priyamm704/DSA-in-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/priyamm704/DSA-in-java/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyamm704/DSA-in-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyamm704/DSA-in-java/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/priyamm704/DSA-in-java/tree/master/0451-sort-characters-by-frequency) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priyamm704/DSA-in-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priyamm704/DSA-in-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/1901-find-a-peak-element-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/priyamm704/DSA-in-java/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/priyamm704/DSA-in-java/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/priyamm704/DSA-in-java/tree/master/1903-largest-odd-number-in-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
