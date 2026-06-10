@@ -1,7 +1,7 @@
 class MyStack {
     Queue<Integer> Q;
     public MyStack() {
-        this.Q = new ArrayDeque<>();
+        Q = new ArrayDeque<>();
     }
     
     public void push(int x) {
