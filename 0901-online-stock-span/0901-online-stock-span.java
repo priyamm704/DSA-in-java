@@ -1,22 +1,32 @@
 class StockSpanner {
-    List<Integer> ls = new ArrayList<>();
-    public StockSpanner() {
-        
-    }
-    
-    public int next(int price) {
-        ls.add(price);
-        int count = 0;
-        for(int i = ls.size()-1;i>=0;i--){
-            if(ls.get(i) <= price)count++;
-            else break;
+
+    private static class Pair {
+        int price;
+        int index;
+
+        Pair(int price, int index) {
+            this.price = price;
+            this.index = index;
         }
-        return count;
+    }
+
+    private Deque<Pair> stack = new ArrayDeque<>();
+    private int index = -1;
+
+    public int next(int price) {
+
+        index++;
+
+        while (!stack.isEmpty() && stack.peek().price <= price) {
+            stack.pop();
+        }
+
+        int span = stack.isEmpty()
+                ? index + 1
+                : index - stack.peek().index;
+
+        stack.push(new Pair(price, index));
+
+        return span;
     }
 }
-
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner obj = new StockSpanner();
- * int param_1 = obj.next(price);
- */
