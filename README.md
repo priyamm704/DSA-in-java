@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/1901-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/priyamm704/DSA-in-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/priyamm704/DSA-in-java/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/priyamm704/DSA-in-java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priyamm704/DSA-in-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/priyamm704/DSA-in-java/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyamm704/DSA-in-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/priyamm704/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyamm704/DSA-in-java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/priyamm704/DSA-in-java/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -397,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyamm704/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyamm704/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/priyamm704/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/priyamm704/DSA-in-java/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
